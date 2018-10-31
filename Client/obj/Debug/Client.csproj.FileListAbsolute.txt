@@ -1,0 +1,10 @@
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\bin\Debug\Client.exe.config
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\bin\Debug\Client.exe
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\bin\Debug\Client.pdb
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\bin\Debug\ChilkatDotNet46.dll
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\bin\Debug\NetworkCommsDotNet.dll
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\obj\Debug\Client.exe
+C:\Users\Rishabh\source\repos\ClientServerExample\Client\obj\Debug\Client.pdb
