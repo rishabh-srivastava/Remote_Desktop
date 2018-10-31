@@ -230,6 +230,15 @@ namespace Client
             bool bLocalTime = true;
             Console.WriteLine("Current local date/time: " + dt.GetAsRfc822(bLocalTime));
 
+            bool isSent = channel.SendString("echo hello world");
+            if (isSent != true)
+            {
+                Console.WriteLine(channel.LastErrorText);
+                return;
+            }
+
+            Console.WriteLine("---- echo hello world ----");
+
             //  Close the SSH channel.
             success = channel.Close(maxWaitMs);
             if (success != true)
